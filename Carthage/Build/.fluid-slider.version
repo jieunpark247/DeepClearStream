@@ -1,0 +1,18 @@
+{
+  "Mac" : [
+
+  ],
+  "watchOS" : [
+
+  ],
+  "tvOS" : [
+
+  ],
+  "commitish" : "1.0.0",
+  "iOS" : [
+    {
+      "name" : "Slider",
+      "hash" : "da9f94bdea3dea7b8692cd6bbf9a4d5621ea00fcad326cde580dc7fff39336f5"
+    }
+  ]
+}

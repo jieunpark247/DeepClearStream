@@ -1,0 +1,30 @@
+PODS:
+  - Charts (3.2.1):
+    - Charts/Core (= 3.2.1)
+  - Charts/Core (3.2.1)
+  - fluid-slider (1.0.0):
+    - pop
+  - pop (1.0.12)
+  - SwiftCharts (0.6.3)
+
+DEPENDENCIES:
+  - Charts
+  - fluid-slider
+  - SwiftCharts
+
+SPEC REPOS:
+  https://github.com/cocoapods/specs.git:
+    - Charts
+    - fluid-slider
+    - pop
+    - SwiftCharts
+
+SPEC CHECKSUMS:
+  Charts: f122fb70b19847fa5817d018b77d6c5a2296ab25
+  fluid-slider: a19a991606a34a545cba9341e7422073b4ec3a66
+  pop: d582054913807fd11fd50bfe6a539d91c7e1a55a
+  SwiftCharts: 1535b5e228702af2c9c4d60c2a408f2f0f579fa8
+
+PODFILE CHECKSUM: 5a6f434f7937469af51d6c04cfcdad08cefe62ed
+
+COCOAPODS: 1.5.3

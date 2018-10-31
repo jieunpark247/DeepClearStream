@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<VariablesViewState
+   version = "1.0">
+   <ContextStates>
+      <ContextState
+         contextName = "Collection&lt;&gt;.floatArray.getter:ViewController.swift">
+      </ContextState>
+      <ContextState
+         contextName = "ViewController.doubleArrayToNSData(array:):ViewController.swift">
+      </ContextState>
+      <ContextState
+         contextName = "ViewController.recordButtonPressed(_:):ViewController.swift">
+      </ContextState>
+      <ContextState
+         contextName = "closure #1 in ViewController.viewDidLoad():ViewController.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "buffer.frameCapacity">
+            </PersistentString>
+            <PersistentString
+               value = "bufferSize">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "ViewController.toPCMBuffer(data:):ViewController.swift">
+      </ContextState>
+   </ContextStates>
+</VariablesViewState>

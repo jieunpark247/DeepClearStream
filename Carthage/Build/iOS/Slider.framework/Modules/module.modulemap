@@ -1,0 +1,11 @@
+framework module Slider {
+  umbrella header "Slider.h"
+
+  export *
+  module * { export * }
+}
+
+module Slider.Swift {
+    header "Slider-Swift.h"
+    requires objc
+}
